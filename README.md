@@ -29,6 +29,8 @@ This dataset includes criminal offenses in the City and County of Denver for the
 | NEIGHBORHOOD_ID        | Contains the neighborhood where the crime had occurred(78 neighborhoods)                 |
 | IS_CRIME               | Is_Crime indicates whether the instance belongs to a crime or accident (0 or 1).         |
 | IS_TRAFFIC             | Is_Traffic indicates whether the instance belongs to a crime or accident (0 or 1).       |
+## Exploratary Data Analysis
+Exploratary Data Analysis done using tableau to find insights and pattern in the data. They are found the folder named EDA on Denver Crime Dataset
 ## Libraries used
 * numpy
 * pandas
